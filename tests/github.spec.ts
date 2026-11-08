@@ -1,5 +1,7 @@
 // Understanding Github and jenkins:: 
 
+import { channel } from "node:diagnostics_channel";
+
 /*
 github/bitbucket/gitlab - these are used for version control and code management. 
 
@@ -36,7 +38,8 @@ version control is a system that records changes to a file or set of files over 
 8. git push
 
 */
-
+//channel
+//dfergtyyhgfgxhgf
 
 /*
 
