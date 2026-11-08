@@ -57,12 +57,3 @@ test('test 3',async()=>{
 })
 
 
-//eghtfcgyuhjkjhghgjnhjkkj
-//
-/*
-new code
-*/
-//updated code
-/*
-new commit change in same branch
-*/
