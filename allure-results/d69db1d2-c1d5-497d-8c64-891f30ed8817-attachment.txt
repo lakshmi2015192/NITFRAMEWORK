@@ -1,0 +1,3 @@
+before each
+testcase2
+afterEach
