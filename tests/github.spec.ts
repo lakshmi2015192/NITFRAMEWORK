@@ -38,15 +38,9 @@ version control is a system that records changes to a file or set of files over 
 8. git push
 
 */
-//channel
-//dfergtyyhgfgxhgf
-
-/*
-
-performing new commit after cloning the repo from github
 
 
-*/
+
 
 
 
