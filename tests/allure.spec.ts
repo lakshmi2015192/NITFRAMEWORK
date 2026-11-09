@@ -20,9 +20,6 @@ npx allure generate allure-results --clean-o allure-report
 once the allure report folder is created,copy the history and paste it in allure results folder.
 
 
-
-
-
 */
 
-
+//new changes 2
