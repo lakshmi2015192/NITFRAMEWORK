@@ -18,6 +18,6 @@ test('valid login user',async({page})=>{
 })
 test('invalid login user',async({page})=>{
     await lps.loginIntoApplications(data.email,data.invalidPassword)
-    await expect(lps.errorMessage).toBeVisible();
+    await expect(lps.errorMessages).toBeVisible();
 
 })

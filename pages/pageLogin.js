@@ -17,7 +17,7 @@ export class pageLogin{
         async loginIntoApplications(username,password){
             await this.email.fill(username);
             await this.password.fill(password);
-            await this.loginButton.click()
+            await this.loginButtons.click()
         }
 
 
